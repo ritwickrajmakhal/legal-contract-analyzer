@@ -8,6 +8,8 @@
 ![MindsDB](https://img.shields.io/badge/MindsDB-v24.x-orange)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
 
+https://github.com/user-attachments/assets/b4ffa79e-f270-41a7-9309-f956062c6e33
+
 ## ⚡ Quick Deploy (2 minutes)
 
 **Try it now with one command - no setup required!**
